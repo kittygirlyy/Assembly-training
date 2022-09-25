@@ -15,3 +15,5 @@ x86-x64 🔥
 FASM
 
 0x1 > [MessageBox](https://github.com/n3k0girl/Assembly-training/blob/main/FasmWTF/HelloMyDearCat.asm)
+
+0x2 > [WriteInAFile](https://github.com/n3k0girl/Assembly-training/blob/main/FasmWTF/makemycatgreatagain.asm)
