@@ -19,3 +19,9 @@ FASM
 0x1 > [MessageBox](https://github.com/n3k0girl/Assembly-training/blob/main/FasmWTF/HelloMyDearCat.asm)
 
 0x2 > [WriteInAFile](https://github.com/n3k0girl/Assembly-training/blob/main/FasmWTF/makemycatgreatagain.asm)
+
+NASM
+
+0x1 > [Multiply](https://github.com/n3k0girl/Assembly-training/blob/main/NASM/Multiply.asm)
+
+0x2 > [OppositeNumber](https://github.com/n3k0girl/Assembly-training/blob/main/NASM/OppositeNumber.asm)
