@@ -26,6 +26,8 @@ NASM
 
 0x2 > [OppositeNumber](https://github.com/n3k0girl/Assembly-training/blob/main/NASM/OppositeNumber.asm)
 
+0x3 > [LoadDisk](https://github.com/n3k0girl/Assembly-training/blob/main/NASM/disk.asm)
+
 ---
 # Links
 
