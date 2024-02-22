@@ -28,6 +28,8 @@ NASM
 
 0x3 > [LoadDisk](https://github.com/n3k0girl/Assembly-training/blob/main/NASM/disk.asm)
 
+0x4 > [ForkBomb](https://github.com/n3k0girl/Assembly-training/blob/main/NASM/ForkBomb.asm)
+
 ---
 # Links
 
