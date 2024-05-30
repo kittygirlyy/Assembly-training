@@ -43,6 +43,8 @@ NASM
 
 0x5 > [WindowsMessageBox](https://github.com/kittygirlyy/Assembly-training/blob/main/NASM/MessageBoxWindows.asm)
 
+0x6 > [Pyramide](https://github.com/kittygirlyy/Assembly-training/blob/main/NASM/Pyramide.asm)
+
 ---
 # Links
 
