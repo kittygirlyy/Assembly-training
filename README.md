@@ -36,6 +36,6 @@ NASM
 ---
 # Links
 
-Linux Syscall > [Here](https://syscall.sh)
+Linux Syscall > [Here](https://x86.syscall.sh)
 
 OS Dev > [Here](https://wiki.osdev.org/Required_Knowledge)
