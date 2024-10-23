@@ -33,6 +33,8 @@ NASM
 
 0x6 > [Pyramide](https://github.com/kittygirlyy/Assembly-training/blob/main/NASM/Pyramide.asm)
 
+0x7 > [ft_printf](https://github.com/kittygirlyy/Assembly-training/blob/main/NASM/ft_printf.asm)
+
 ---
 # Links
 
